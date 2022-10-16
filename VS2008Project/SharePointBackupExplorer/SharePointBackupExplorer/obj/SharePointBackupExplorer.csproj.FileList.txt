@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SharePointBackupExplorer.Form1.resources
+obj\Debug\SharePointBackupExplorer.Properties.Resources.resources
+obj\Debug\SharePointBackupExplorer.csproj.GenerateResource.Cache
+bin\Debug\SharePointBackupExplorer.exe
+bin\Debug\SharePointBackupExplorer.pdb
+obj\Debug\SharePointBackupExplorer.exe
+obj\Debug\SharePointBackupExplorer.pdb
